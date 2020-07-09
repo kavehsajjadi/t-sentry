@@ -1,0 +1,6 @@
+[defaults]
+org=assetsmash
+project=dev
+
+[auth]
+token=fc8d1dbde4944c37bb773dccb85dde6f873a24ce5eb04676943ccb7e05ca1a23
